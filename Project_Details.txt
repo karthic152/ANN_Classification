@@ -1,0 +1,19 @@
+Churn Modelling Dataset  --> Classification
+
+Basic Feature Engineering:
+    Convert Categorical variable into Numerical
+    Standardization
+
+Dropout --> to avoid overfit
+
+Loss
+
+Optimizers
+
+Save Model to pickle and h5
+
+streamlit for webapp
+
+integarate all the models
+
+Deploy the models in streamlit cloud
